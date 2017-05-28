@@ -1,7 +1,7 @@
 # Podcast-Player
 Podcast MacOs reader
 
-This code started from the Udemy curse: MacOS programing for IOS developers:
+This code started from the Udemy course: MacOS programing for IOS developers:
 
 https://www.udemy.com/macos-programming-for-ios-developers-mac-apps-os-x-cocoa/learn/v4/overview
 
