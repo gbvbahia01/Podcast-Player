@@ -17,3 +17,8 @@ https://metallicapodcast.podbean.com/feed/
 
 http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=2406595
 
+Helpers:
+
+https://codebeautify.org/xmlviewer#
+
+http://www.nsdateformatter.com/
